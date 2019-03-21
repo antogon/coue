@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'coue'
+puts "Executable not yet implemented.  Thank you, come again."
